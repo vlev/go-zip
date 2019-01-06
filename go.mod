@@ -1,1 +1,1 @@
-module github.com/vlev
+module github.com/vlev/go-zip
